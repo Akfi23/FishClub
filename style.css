@@ -36,7 +36,7 @@ div {
   max-width: 1920px;
   max-height: 1080px;
 
-  aspect-ratio: 16 / 9;
+  aspect-ratio: 1;
 
   margin: 0;
   padding: 0;
