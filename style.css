@@ -45,7 +45,7 @@ div {
     width: min(
         100vw,
         calc(100vh * 16 / 9),
-        1920px
+        1600px
     );
 
     aspect-ratio: 16 / 9;
